@@ -22,15 +22,18 @@ github: viniciusliff
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    That's me :) 
+    Vinícius Litvinoff Justus is a PhD student in Statistics at Universidad Carlos III de Madrid (UC3M), where his current doctoral research focuses on the statistical analysis of non-Euclidean data. His broader research agenda lies in statistical dependence, causal inference, and the foundations of statistical methodology.
   </p>
   <p>
-    El Escorial, Spain
+   He is particularly interested in questions concerning the interpretation of statistical objects, the relation between formal probabilistic structure and scientific meaning, and the role of dependence concepts in causal and inferential reasoning. His work lies at the intersection of dependence modeling, conditional association, confounding, and conceptual issues in statistics, with an emphasis on problems where mathematical formalization can yield clearer and more meaningful representations.
+  </p>
+  <p>
+  His recent work reflects these broader interests from complementary perspectives. His master’s thesis examined the relation between statistical dependence and causality through the lens of copula theory and structural causal models, with particular attention to confounding, omitted-variable bias, and the representation of causal effects. More recently, his work on partial copulas has investigated how dependence concepts can be used to characterize covariate-adjusted association in a flexible and nonparametric way. Together, these projects illustrate his broader interest in the use of formal probabilistic structure to clarify the interpretation of statistical and causal notions.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  That's me :) 
 
 education:
 - name: Massachusetts Institute of Technology
