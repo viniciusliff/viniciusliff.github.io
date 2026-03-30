@@ -36,16 +36,20 @@ portrait_caption: >-
   That's me :) 
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Carlos III University of Madrid (Spain)
+  logo: /assets/images/badges/Logo_UC3M.svg.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Statistics <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+  date: 2025 - present
+- name: University of Campinas (Brazil)
   logo: /assets/images/badges/Logo_Unicamp__0.jpg
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: MSc. in Statistics
+  date: 2023 - 2024
+- name: University of Campinas (Brazil)
+  logo: /assets/images/badges/Logo_Unicamp__0.jpg
+  position: B.S. in Statistics
+  date: 2019 - 2022
 
 # experience:
 # - name: Peking University
