@@ -16,5 +16,6 @@ authors:
   - Felipe Fontana Vieira
 links:
   Code: https://github.com/felipelfv/copula_project
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://arxiv.org/abs/2603.10941v1
+#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
