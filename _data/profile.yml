@@ -22,10 +22,7 @@ github: viniciusliff
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   Hello! :)
-  </p>
-  <p>
-    I am Vinícius, a PhD student in statistics at Carlos III University of Madrid, in Spain. My current research lies in statistical inference for data in non-Euclidean spaces.
+   Hello! I am Vinícius, a PhD student in statistics at Carlos III University of Madrid, in Spain. My current research lies in statistical inference for data in non-Euclidean spaces.
   </p>
   <p>
     More broadly, I am interested in statistical dependence, causal inference, and the foundations of statistics. My general interests are related to understanding how the notion of causality and statistical association are formally connected, how to make inductive inferences, and how to quantify my uncertainty about such inferences; those questions naturally drew me to pursue both a bachelor's and a master's degree in statistics at the University of Campinas, in Brazil.
