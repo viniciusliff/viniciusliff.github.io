@@ -22,17 +22,15 @@ github: viniciusliff
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Vinícius Litvinoff Justus is a PhD student in Statistics at Universidad Carlos III de Madrid, in Spain, where his current doctoral research focuses on the statistical analysis of non-Euclidean data. His broader research agenda lies in statistical dependence, causal inference, and the foundations of statistical methodology.
-  </p>
-  <p>
-   He is particularly interested in questions concerning the interpretation of statistical objects, the relation between formal probabilistic structure and scientific meaning, and the role of dependence concepts in causal and inferential reasoning. His work lies at the intersection of dependence modeling, conditional association, confounding, and conceptual issues in statistics, with an emphasis on problems where mathematical formalization can yield clearer and more meaningful representations.
-  </p>
-  <p>
-  His recent work reflects these broader interests from complementary perspectives. His <a href="https://hdl.handle.net/20.500.12733/27875" target="_blank">master’s thesis</a> examined the relation between statistical dependence and causality through the lens of copula theory and structural causal models, with particular attention to confounding, omitted-variable bias, and the representation of causal effects. More recently, his <a href="https://github.com/felipelfv/copula_project" target="_blank">work on partial copulas</a> has investigated how dependence concepts can be used to characterize covariate-adjusted association in a flexible and nonparametric way. Together, these projects illustrate his broader interest in the use of formal probabilistic structure to clarify the interpretation of statistical and causal notions.
-  </p>
-  <p>
-  <strong>Main research interests:</strong> copula theory, structural causal models, conditional independence, exchangeability, and directional statistics.
-  </p>
+   Hello! :)
+</p>
+I am Vinícius, a PhD student in statistics at Carlos III University of Madrid, in Spain. My current research lies in statistical inference for data in non-Euclidean spaces.
+More broadly, I am interested in statistical dependence, causal inference, and the foundations of statistics. My general interests are related to understanding how the notion of causality and statistical association are formally connected, how to make inductive inferences, and how to quantify my uncertainty about such inferences; those questions naturally drew me to pursue both a bachelor's and a master's degree in statistics at the University of Campinas, in Brazil.
+</p>
+As specific research subjects, I developed an interest in copula theory, structural causal models, conditional independence, and exchangeability. I also read, as a hobby, a bit about factor analysis, extreme value theory, robustness, and the philosophy of statistics.
+</p>
+If you would like to discuss any topic in either statistics, probability, or the philosophy of statistics, feel free to email me in either English, Portuguese, or Spanish! :)
+     </p>
 
 portrait_url: /assets/images/photos/photo_5129641203426069413_x.jpg
 portrait_caption: >-
