@@ -60,7 +60,9 @@ education:
  experience:
  - name: Carlos III University of Madrid (Spain)
    logo: /assets/images/badges/Logo_UC3M.svg.png
-   position: Predoctoral researcher
+   position: >- 
+    Department of Statistics <br/>
+    Predoctoral Researcher
    date: 2025 - present
 
 awards:
