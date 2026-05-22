@@ -5,59 +5,62 @@ navbar_name: "Vinícius Litvinoff Justus"
 positions:
 - name: PhD student
 - name: Carlos III University of Madrid
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-
+  logo: /assets/images/badges/MIT_Social_circle.png # Logo is optional
 
 email: "viniliff@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: Mg3HpdEAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+gscholar: Mg3HpdEAAAAJ&hl
 github: viniciusliff
-#twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# twitter: your_twitter_id # Do not include the '@' symbol
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   Hello! I am Vinícius, a PhD student in statistics at Carlos III University of Madrid, in Spain. My current research lies in statistical inference for data in non-Euclidean spaces.
+  Hello! I am Vinícius, a PhD student in statistics at Carlos III University of Madrid, in Spain. My current research lies in statistical inference for data in non-Euclidean spaces.
   </p>
+
   <p>
-    More broadly, I am interested in statistical dependence, causal inference, and the foundations of statistics. My general interests are related to understanding how the notion of causality and statistical association are formally connected, how to make inductive inferences, and how to quantify my uncertainty about such inferences; those questions naturally drew me to pursue both a bachelor's and a master's degree in statistics at the University of Campinas, in Brazil.
+  More broadly, I am interested in statistical dependence, causal inference, and the foundations of statistics. My general interests are related to understanding how the notion of causality and statistical association are formally connected, how to make inductive inferences, and how to quantify my uncertainty about such inferences; those questions naturally drew me to pursue both a bachelor's and a master's degree in statistics at the University of Campinas, in Brazil.
   </p>
+
   <p>
-    As specific research subjects, I developed an interest in copula theory, structural causal models, conditional independence, and exchangeability. I also read, as a hobby, a bit about factor analysis, extreme value theory, robustness, and the philosophy of statistics.
+  As specific research subjects, I developed an interest in copula theory, structural causal models, conditional independence, and exchangeability. I also read, as a hobby, a bit about factor analysis, extreme value theory, robustness, and the philosophy of statistics.
   </p>
+
   <p>
-    If you would like to discuss any topic in either statistics, probability, or the philosophy of statistics, feel free to email me in either English, Portuguese, or Spanish! :)
+  If you would like to discuss any topic in either statistics, probability, or the philosophy of statistics, feel free to email me in either English, Portuguese, or Spanish! :)
   </p>
+
   <p>
-    <strong>Main research interests:</strong> copula theory, structural causal models, conditional independence, exchangeability, and directional statistics.
+  <strong>Main research interests:</strong> copula theory, structural causal models, conditional independence, exchangeability, and directional statistics.
   </p>
 
 portrait_url: /assets/images/photos/photo_5129641203426069413_x.jpg
+
 portrait_caption: >-
-  That's me :) 
+  That's me :)
 
 education:
 - name: Carlos III University of Madrid (Spain)
   logo: /assets/images/badges/Logo_UC3M.svg.png
-  position: >- 
+  position: >-
     Department of Statistics <br/>
     Ph.D. Student
   date: 2025 - present
+
 - name: University of Campinas (Brazil)
   logo: /assets/images/badges/Logo_Unicamp__0.jpg
   position: MSc. in Statistics
   date: 2023 - 2024
+
 - name: University of Campinas (Brazil)
   logo: /assets/images/badges/Logo_Unicamp__0.jpg
   position: B.S. in Statistics
   date: 2019 - 2022
 
- experience:
+experience:
 - name: Carlos III University of Madrid (Spain)
   logo: /assets/images/badges/Logo_UC3M.svg.png
   position: >-
@@ -66,11 +69,14 @@ education:
   date: 2025 - present
 
 awards:
-- name: Top ranked applicant admitted to a Master's program in Statistics with a scholarship - University of Campinas. 
+- name: Top ranked applicant admitted to a Master's program in Statistics with a scholarship - University of Campinas.
   date: 2023
-- name: Speaker at the graduation ceremony for the graduating class in statistics. 
+
+- name: Speaker at the graduation ceremony for the graduating class in statistics.
   date: 2023
+
 - name: Bronze medal at the Brazilian Public School Mathematics Olympiad.
   date: 2014
+
 - name: Bronze medal at the Brazilian Public School Mathematics Olympiad.
   date: 2013
