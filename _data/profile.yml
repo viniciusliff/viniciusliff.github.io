@@ -58,12 +58,12 @@ education:
   date: 2019 - 2022
 
  experience:
- - name: Carlos III University of Madrid (Spain)
-   logo: /assets/images/badges/Logo_UC3M.svg.png
-   position: >- 
+- name: Carlos III University of Madrid (Spain)
+  logo: /assets/images/badges/Logo_UC3M.svg.png
+  position: >-
     Department of Statistics <br/>
     Predoctoral Researcher
-   date: 2025 - present
+  date: 2025 - present
 
 awards:
 - name: Top ranked applicant admitted to a Master's program in Statistics with a scholarship - University of Campinas. 
